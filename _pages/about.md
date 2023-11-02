@@ -18,39 +18,21 @@ In my undergraduate studies, I was more inclined towards computational optimizat
 Research Experience
 ======
 * 03/2023 – 08/2023: Assistant and thesis for human upper limb and human-robot interaction, Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich (TUM), Germany
-  - Build the multi-body musculoskeletal system dynamic model, inverse dynamics, and interactive learning
-  - Update and visualization part of the musculoskeletal kinematics in Unity ego-perspective
-  - Development of AR fitness muscle training game application for HoloLens 2 AR HMD
-  - Classify arm motions using EMG signals with LTSM, guide Post-stroke patients to play the MSK-V AR Gaming
   - [Reference Letter from MIRMI](../images/research1.png)
 
 * 04/2022 – 10/2022: Assistant for EIVESIM Intern, Institute of Automation and Information Systems (AIS), Technical University of Munich (TUM), Germany
-  - Development of intelligent distributed embedded systems (human-collaborated) with C++ and Python for Petri nets and model transformations (programming with UML, OCL language)
-  - Supervising the internship and evaluating students
-  - Responsible for exams and grading
   - [Reference Letter from AIS](../assets/Anhang1.df)
   
 * 05/2022 – 09/2022: Research Assistant Small size defect detection on chip surface, DeeCamp for AI & MEGAROBO AG, China
-  - Improve the detection rate of small-sized defects in complex backgrounds, reduce the false detection rate, and try to improve the operating efficiency of the algorithm based on Yolo and Patchcore.
-  - Algorithm accuracy optimization & Algorithm speed improvement in team
-  - [Certificate from AIS](../assets/certificate2.pdf)
+  - [Certificate](../assets/certificate2.pdf)
 
 * 12/2021 – 07/2022: Research Assistant for SeaClear underwater robots Intern, Chair of information-oriented control (ITR), Technical University of Munich (TUM), Germany
-  - Modeling the robot dynamic with MATLAB/ Simulink and C++ for ROS, Modeling the control units with MATLAB Simulink and Check the control units in ROS
-  - Help with the construction of underwater environments by using C++ and Gazebo
-  - Simulation with Gazebo and Real-time Simulation & Literature retrieval and implementation methods
-  - Tasks about IMU/ DVL data processing and computer vision
   - [Reference Letter from ITR](../assets/certificate3.pdf)
  
 * 10/2020 -– 02/2021: Assistant for Technical Mechanics Intern, Chair of Technical Mechanics, University of Paderborn, Germany
-  - Help organization the lectures on Technical Mechanics (Biomechanics) and varied, exciting tasks such as leading the tutorial on Technical Mechanics in a team
-  - Assisting students in editing assignments & and revising and improving assignments
-  - Responsible for exams and grading
   - [Certificate from Chair of Technical Mechanics](../assets/certificate4.pdf)
  
 * 04/2020 -– 10/2020: Engineering internship for Automation & Production Intern, Volkswagen AG, Wolfsburg, Germany
-  - Optimization of existing processes in the sense of the continuous ergonomic improvement process and evaluation based on production data and human operating in production
-  - Project VPS and autonomous transporter motion planning-based human-centered delivery and production
   - [Certificate from VW AG](../assets/certificate5.pdf)
 
 
