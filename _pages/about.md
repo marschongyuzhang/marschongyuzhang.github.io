@@ -44,3 +44,9 @@ Award
  - DAAD Stipendium/ DAAD Germany Scholarship 2019-2020 [Certificate](../assets/10.pdf)
  - Phoenix Scholarship (Supporting Company Scholarship) [Certificate](../assets/13.pdf)
  - DAAD Stipendium/ DAAD Germany Scholarship 2016 [Certificate](../assets/12.pdf)
+
+Sommer school and exchange
+======
+- ETH EXCITE Zurich Summer School on Biomedical Imaging 5 - 16 September 2022 [Certificate](../assets/ETH.pdf)
+- Tsing Hua Global Summer School 2022 [Certificate](../assets/GSS4_30.pdf)
+- 
