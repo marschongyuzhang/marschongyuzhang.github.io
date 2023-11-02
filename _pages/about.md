@@ -15,11 +15,27 @@ In my undergraduate studies, I was more inclined towards computational optimizat
 [CV](../assets/CurriculumVitae.pdf)
 [Email](mailto:zcygeren@gmail.com)
 
-A data-driven personal website
+Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 03/2023 – 08/2023: Assistant and thesis for human upper limb and human-robot interaction, Munich Institute of Robotics and Machine Intelligence, Technical University of Munich (TUM), Germany
+  - Build the multi-body musculoskeletal system dynamic model, inverse dynamics, and interactive learning
+  - Update and visualization part of the musculoskeletal kinematics in Unity ego-perspective
+  - Development of AR fitness muscle training game application for HoloLens 2 AR HMD
+  - Classify arm motions using EMG signals with LTSM, guide Post-stroke patients to play the MSK-V AR Gaming
+  [Reference Letter from MIRMI](../images/research1.png)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Assistant for EIVESIM Intern, Institute of Automation and Information Systems, Technical University of Munich (TUM), Germany
+  - Development of intelligent distributed embedded systems (human-collaborated) with C++ and Python for Petri nets and model transformations (programming with UML, OCL language)
+  - Supervising the internship and evaluating students
+  - Responsible for exams and grading
+  [Reference Letter from AIS](../images/research1.png)
+  
+* Research Assistant Small size defect detection on chip surface, DeeCamp for AI & MEGAROBO AG, China
+  - Improve the detection rate of small-sized defects in complex backgrounds, reduce the false detection rate, and try to improve the operating efficiency of the algorithm based on Yolo and Patchcore.
+  - Algorithm accuracy optimization & Algorithm speed improvement in team
+
+
+
 
 Getting started
 ======
