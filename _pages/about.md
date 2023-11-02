@@ -22,13 +22,13 @@ Research Experience
   - Update and visualization part of the musculoskeletal kinematics in Unity ego-perspective
   - Development of AR fitness muscle training game application for HoloLens 2 AR HMD
   - Classify arm motions using EMG signals with LTSM, guide Post-stroke patients to play the MSK-V AR Gaming
-  [Reference Letter from MIRMI](../images/research1.png)
+  - [Reference Letter from MIRMI](../images/research1.png)
 
 * Assistant for EIVESIM Intern, Institute of Automation and Information Systems, Technical University of Munich (TUM), Germany
   - Development of intelligent distributed embedded systems (human-collaborated) with C++ and Python for Petri nets and model transformations (programming with UML, OCL language)
   - Supervising the internship and evaluating students
   - Responsible for exams and grading
-  [Reference Letter from AIS](../images/research1.png)
+  - [Reference Letter from AIS](../images/research1.png)
   
 * Research Assistant Small size defect detection on chip surface, DeeCamp for AI & MEGAROBO AG, China
   - Improve the detection rate of small-sized defects in complex backgrounds, reduce the false detection rate, and try to improve the operating efficiency of the algorithm based on Yolo and Patchcore.
