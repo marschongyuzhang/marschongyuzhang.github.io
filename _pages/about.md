@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marcus Chongyu Zhang"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
