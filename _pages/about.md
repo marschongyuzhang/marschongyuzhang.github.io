@@ -17,11 +17,11 @@ In my undergraduate studies, I was more inclined towards computational optimizat
 
 Recommendation letter 
 ======
-Due to my excellent performance throughout my work and study career, I received a total of more than 3 letters of recommendation from outstanding professors and doctoral engineers in the field.
+Due to my excellent performance throughout my work and study career, I received a total of 4 letters of recommendation from outstanding professors and doctoral engineers in the field.
  - Reference Letter from Prof. Dr. -Ing. Zhichao Qu [Email](mailto:quzhichao@qust.edu.cn) [Letter](../images/1.png)
  - Reference Letter from Prof. Dr. -Ing. Birgit Vogel-Heuser [Email](mailto:sekretariat.ais@ed.tum.de) (coming soon)
  - Reference Letter from M.Sc. M.Sc.Tingli Hu from Prof. Dr.-Ing. Sami Haddadin [Email](mailto:tingli.hu@tum.de) [Letter](../images/2.png)
- - Reference Letter from Dr.-Ing. Franz [Email](mailto:irlinger@tum.de.) [Letter](../assets/3.pdf)
+ - Reference Letter from Dr.-Ing. Franz Irlinger [Email](mailto:irlinger@tum.de.) [Letter](../assets/3.pdf)
 
 Publications
 ======
