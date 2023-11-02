@@ -10,10 +10,18 @@ redirect_from:
 
 I'm a master student (currently 1.4/1.0) of Robotics from [Technical University Munich](https://www.tum.de/), located in Garching of Munich, Germany. I graduated in Mechanical Engineering (1.4/1.0), best 2%) from the University Paderborn in Germany, located in North Rhine-Westphalia. My research interest includes computer vision, machine learning, and human-machine-interaction.
 
-In my undergraduate studies, I was more inclined towards computational optimization in mechanics and mathematics, so I completed an undergraduate thesis on process optimization at the Institute of Lightweight([LiA](https://mb.uni-paderborn.de/leichtbau)), with Prof. Dr. Thomas Tröster. I was very fortunate to be advised by [Prof. Dr. Sami Haddadin](https://www.professoren.tum.de/en/haddadin-sami) of MIRMI from [Technical University Munich](https://www.tum.de/). I was advised by [M.Sc. M.Sc. Tingli Hu](https://www.mirmi.tum.de/mirmi/team/hu-tingli/) from [Technical University Munich](https://www.tum.de/). I completed a paper in which I completed some content related to human-computer interaction, vision tasks with deep learning, AR/VR Embedded system development, if you want to know more please see [here](https://arxiv.org/abs/2310.13698).
+In my undergraduate studies, I was more inclined towards computational optimization in mechanics and mathematics, so I completed an undergraduate thesis on process optimization at the Institute of Lightweight([LiA](https://mb.uni-paderborn.de/leichtbau)), with Prof. Dr. Thomas Tröster. I was very fortunate to be advised by [Prof. Dr.-Ing. Sami Haddadin](https://www.professoren.tum.de/en/haddadin-sami) of MIRMI from [Technical University Munich](https://www.tum.de/). I was advised by [M.Sc. M.Sc. Tingli Hu](https://www.mirmi.tum.de/mirmi/team/hu-tingli/) from [Technical University Munich](https://www.tum.de/). I completed a paper in which I completed some content related to human-computer interaction, vision tasks with deep learning, AR/VR Embedded system development, if you want to know more please see [here](https://arxiv.org/abs/2310.13698).
 
 [CV](../assets/CurriculumVitae.pdf)
 [Email](mailto:zcygeren@gmail.com)
+
+Recommendation letter 
+======
+Due to my excellent performance throughout my work and study career, I received a total of more than 3 letters of recommendation from outstanding professors and doctoral engineers in the field.
+ - Reference Letter from Prof. Dr. -Ing. Zhichao Qu [Email](mailto:quzhichao@qust.edu.cn) [Letter](../images/1.png)
+ - Reference Letter from Prof. Dr. -Ing. Birgit Vogel-Heuser [Email](mailto:quzhichao@qust.edu.cn) [Coming 11/2023]
+ - Reference Letter from M.Sc. M.Sc.Tingli Hu from Prof. Dr.-Ing. Sami Haddadin [Email](mailto:tingli.hu@tum.de) [Letter](../images/2.png)
+ - Reference Letter from Dr.-Ing. Franz [Email](mailto:irlinger@tum.de.) [Letter](../assets/3.pdf)
 
 Research Experience
 ======
@@ -49,4 +57,3 @@ Sommer school and exchange
 ======
 - ETH EXCITE Zurich Summer School on Biomedical Imaging 5 - 16 September 2022 [Certificate](../assets/ETH.pdf)
 - Tsing Hua Global Summer School 2022 [Certificate](../assets/GSS4_30.pdf)
-- 
