@@ -38,10 +38,10 @@ Research Experience
 
 Award
 ======
- - TUM Germany Scholarship [Certificate](../assets/10. Urkunde von DAAD_Vollstipendium 2019.pdf)confirmation
+ - TUM Germany Scholarship [Certificate](../assets/10.pdf)confirmation
  - E-fellows Scholarship [Certificate] [Ranking](../assets/confirmation.pdf)
  - DAAD Stipendium/ DAAD Germany Scholarship [Certificate](../images/WechatIMG102.png)
- - Phoenix Scholarship (Supporting Company Scholarship) [Certificate](../assets/13. Urkunde von Phoenix Stipendium.pdf)
+ - Phoenix Scholarship (Supporting Company Scholarship) [Certificate](../assets/13.pdf)
  - 
 
 Site-wide configuration
