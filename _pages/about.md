@@ -32,23 +32,12 @@ Publications
 
 Research Experience
 ======
-* 03/2023 – 08/2023: Assistant for human upper limb and human-robot interaction, Munich Institute of Robotics and Machine Intelligence (MIRMI), TUM, Germany
-  - [Reference Letter from MIRMI](../images/research1.png)
-
-* 04/2022 – 10/2022: Assistant for EIVESIM Intern, Institute of Automation and Information Systems (AIS), TUM, Germany
-  - [Reference Letter from AIS](../assets/Anhang.df)
-  
-* 05/2022 – 09/2022: Research Assistant Small size defect detection on chip surface, DeeCamp for AI & MEGAROBO AG, China
-  - [Certificate](../assets/certificate2.pdf)
-
-* 12/2021 – 07/2022: Research Assistant for SeaClear underwater robots Intern, Chair of information-oriented control (ITR), TUM, Germany
-  - [Reference Letter from ITR](../assets/certificate3.pdf)
- 
-* 10/2020 -– 02/2021: Assistant for Technical Mechanics Intern, Chair of Technical Mechanics, University of Paderborn, Germany
-  - [Certificate from Chair of Technical Mechanics](../assets/certificate4.pdf)
- 
-* 04/2020 -– 10/2020: Engineering internship for Automation & Production Intern, Volkswagen AG, Wolfsburg, Germany
-  - [Certificate from VW AG](../assets/certificate5.pdf)
+* Assistant for human upper limb and human-robot interaction, Munich Institute of Robotics and Machine Intelligence (MIRMI), TUM, Germany [Reference Letter](../images/research1.png)
+* Assistant for EIVESIM Intern, Institute of Automation and Information Systems (AIS), TUM, Germany [Reference Letter](../assets/Anhang.df)
+* Research Assistant Small size defect detection on chip surface, DeeCamp for AI & MEGAROBO AG, China [Certificate](../assets/certificate2.pdf)
+* Research Assistant for SeaClear underwater robots Intern, Chair of information-oriented control (ITR), TUM, Germany [Reference Letter](../assets/certificate3.pdf)
+* Assistant for Technical Mechanics Intern, Chair of Technical Mechanics, University of Paderborn, Germany [Certificate](../assets/certificate4.pdf)
+* Engineering internship for Automation & Production Intern, Volkswagen AG, Wolfsburg, Germany [Certificate](../assets/certificate5.pdf)
 
 Award
 ======
