@@ -21,6 +21,7 @@ Due to my excellent performance throughout my work and study career, I received 
  - Reference Letter from Prof. Dr. -Ing. Zhichao Qu [Email](mailto:quzhichao@qust.edu.cn) [Letter](../images/1.png)
  - Reference Letter from M.Sc. M.Sc.Tingli Hu from Prof. Dr.-Ing. Sami Haddadin [Email](mailto:tingli.hu@tum.de) [Letter](../images/2.png)
  - Reference Letter from Dr.-Ing. Franz Irlinger [Email](mailto:irlinger@tum.de.) [Letter](../assets/3.pdf)
+ - Reference Letter from Helios.ai，Hong Kong，China (If you are interested, please contact me and I will provide you with the professor’s contact information.)
 
 Publications
 ======
