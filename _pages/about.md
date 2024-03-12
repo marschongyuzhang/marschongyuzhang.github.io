@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master student (Top 5% within germany scholarship program) of Robotics from [Technical University Munich](https://www.tum.de/), located in Garching of Munich, Germany. I graduated in Mechanical Engineering (1.4/1.0), best 2%) from the University Paderborn in Germany, located in North Rhine-Westphalia. My research interest includes computer vision, machine learning, and human-machine-interaction.
+I'm a master student (1.3/1.0 within germany scholarship program) of Robotics from [Technical University Munich](https://www.tum.de/), located in Garching of Munich, Germany. I graduated in Mechanical Engineering (1.4/1.0), best 2%) from the University Paderborn in Germany, located in North Rhine-Westphalia. My research interest includes computer vision, machine learning, and human-machine-interaction.
 
 In my undergraduate studies, I was more inclined towards computational optimization in mechanics and mathematics, so I completed an undergraduate thesis on process optimization at the Institute of Lightweight([LiA](https://mb.uni-paderborn.de/leichtbau)), with Prof. Dr. Thomas Tröster. I was very fortunate to be advised by [Prof. Dr.-Ing. Sami Haddadin](https://www.professoren.tum.de/en/haddadin-sami) of MIRMI from [Technical University Munich](https://www.tum.de/). I was advised by [M.Sc. M.Sc. Tingli Hu](https://www.mirmi.tum.de/mirmi/team/hu-tingli/) from [Technical University Munich](https://www.tum.de/). I completed a paper in which I completed some content related to human-computer interaction, vision tasks with deep learning, AR/VR Embedded system development, if you want to know more please see [here](https://arxiv.org/abs/2310.13698).
 
