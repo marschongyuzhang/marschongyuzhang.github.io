@@ -26,7 +26,6 @@ Due to my excellent performance throughout my work and study career, I received 
 
 Publications
 ======
-- M. Wang, C. Zhang, Y. Wang, J. Gao, W. Wang, L. Yang. Bi-level Whitening for Test-time Adaptation. Preprint for ICML 2024 Conference Submission, 22/01/2024. 
 - C. Zhang. Ego-perspective enhanced fitness training experience of AR try to move game. The 2023 International Conference on Machine Learning and Automation (CONF-MLA 2023), 18/10/2023. [Link](https://arxiv.org/pdf/2310.13698.pdf)
 - W. Dai, Y. Jiang, C. Mou, C. Zhang. An Integrative Paradigm for Enhanced Stroke Prediction: Synergizing XGBoost and xDeepFM Algorithms. In Proceedings of the 2023 6th International Conference on Big Data Technologies (ICBDT '23). Association for Computing Machinery (ACM), New York, NY, USA, 28–32. [Link](https://arxiv.org/pdf/2310.16430.pdf)
 - Q. Li, C. Zhang. Continual learning on deployment pipelines for Machine Learning Systems. Accepted by The Conference on Neural Information Processing Systems (NeurIPS), DMML Workshop, 10/2022. [Link](https://arxiv.org/pdf/2212.02659.pdf)
